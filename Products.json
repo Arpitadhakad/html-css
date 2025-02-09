@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name":"VIVO Y100",
+        "price":15000,
+        "Image":"assets/vivo2-carosal2.png"
+    },
+    {
+        "id" : 2,
+        "name":"OPPO A64",
+        "price":21999,
+        "Image":"assets/oppo-carosal2 (2).png"
+    },
+    {
+        "id" : 3,
+        "name":"INFINIX NOTE30",
+        "price":14999,
+        "Image":"assets/infinix-carosal-2.png"
+    },
+    {
+        "id" : 4,
+        "name":"REDMI 13C",
+        "price":12500,
+        "Image":"assets/redmi-carosal2.png"
+    },
+    {
+        "id" : 5,
+        "name":"VIVO  Y100",
+        "price":11700,
+        "Image":"assets/vivo.png"
+    },
+    {
+        "id" : 6,
+        "name":"ITEL X5",
+        "price":9999,
+        "Image":"assets/itel-carosal2.png"
+    },
+    {
+        "id" : 7,
+        "name":"IKALL S1",
+        "price":8999,
+        "Image":"assets/Ikall-carosal2.png"
+    },
+    {
+        "id" : 8,
+        "name":"ONEPLUS 8RT",
+        "price":29990,
+        "Image":"assets/oneplus-8-carosal2.png"
+    }
+]
